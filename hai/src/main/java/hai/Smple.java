@@ -4,6 +4,8 @@ public class Smple
 {
 	public void m3(){
 		System.out.println("vvvvvv");
+		System.out.println("vvvvvv");
 	}
+	
 
 }
